@@ -1,3 +1,4 @@
 streamlit==1.25.0
 streamlit-ace==0.1.1
 duckdb==1.1.0
+sqlframe==3.1.1
