@@ -5,7 +5,6 @@ import pandas as pd
 st.set_page_config(layout="wide")
 st.title("Upload")
 
-
 def process_csv_upload(file):
     if file is not None:
         try:
